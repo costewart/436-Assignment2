@@ -1,0 +1,48 @@
+.messages-collection {
+    background-color: #DADFF7;
+    padding-top: 0.02px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 0.02px;
+    
+}
+
+.collection-item {
+    text-align: left;
+    color: #232C33;
+   
+  }
+
+  .addMessage {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #232C33;
+    width: 650px;
+   
+  }
+
+  .input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 0;
+    width: 100%;
+    float: left;
+    padding: 5px;
+    font-size: 20px;
+  }
+
+  .button1 {
+    background-color:#DADFF7;
+    color: #232C33;
+    border: 2px solid #232C33;
+    border-radius: 8px;
+    font-size: 1vw;
+    padding: 12px 28px;
+    float: right;
+  }
+
+  .label {
+      padding-left: 5px;
+      float: left;
+  }
